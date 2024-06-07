@@ -2,7 +2,7 @@
 
 Welcome to the NYC Public School SAT Score Analysis repository. This project provides a Python script for exploring SAT scores of New York City public schools. The SATs are standardized tests designed to measure literacy, numeracy, and writing skills. They consist of three sections: reading, math, and writing, each scored out of a maximum of 800 points. Given their significance in college admissions, analyzing the performance of schools in these tests is crucial for various stakeholders, including policymakers, educators, researchers, government officials, and parents.
 
-## Purpose
+## Purpose:
 The purpose of this repository is to offer a tool for stakeholders to analyze NYC public school SAT scores. The script helps answer three specific questions:
 1. **Question 1**: Identify the best math schools with an average math SAT score greater than 80%.
 2. **Question 2**: Determine the top 10 schools with the highest total SAT scores.
